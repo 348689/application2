@@ -1,2 +1,3 @@
 THIS IS FILE A.
 This is change.
+This is another change.
